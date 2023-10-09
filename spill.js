@@ -19,5 +19,4 @@ else if (x > y) {
   guess++;
   alert("Try a greater number. You got this!👍")
 }
-<script src="spill.js"></script>
 }
